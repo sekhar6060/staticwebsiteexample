@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: staticwebpage
+name: staticwebpage_example
 
 # Controls when the action will run. 
 on:
